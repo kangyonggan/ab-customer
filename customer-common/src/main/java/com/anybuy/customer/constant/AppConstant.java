@@ -20,4 +20,10 @@ public class AppConstant {
    */
   public static final String DEFAULT_CHARSET = "utf-8";
 
+  /**
+   * 默认分页数量
+   * - 用于分页展示。
+   */
+  public static final Integer PAGE_SIZE = 10;
+
 }
