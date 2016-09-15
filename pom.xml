@@ -6,7 +6,16 @@
 
     <groupId>com.anybuy</groupId>
     <artifactId>customer</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>customer-model</module>
+        <module>customer-mapper</module>
+        <module>customer-common</module>
+        <module>customer-service</module>
+        <module>customer-biz</module>
+        <module>customer-web</module>
+    </modules>
 
 
 </project>
