@@ -12,4 +12,11 @@
     <artifactId>customer-model</artifactId>
 
     <description>某宝-客户管理-实体类模块</description>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.anybuy</groupId>
+            <artifactId>customer-common</artifactId>
+        </dependency>
+    </dependencies>
 </project>
