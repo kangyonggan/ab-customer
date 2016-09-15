@@ -15,6 +15,7 @@
         <module>customer-service</module>
         <module>customer-biz</module>
         <module>customer-web</module>
+        <module>customer-test</module>
     </modules>
 
 
