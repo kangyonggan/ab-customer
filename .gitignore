@@ -1,0 +1,16 @@
+# Maven #
+target/
+
+# IDEA #
+.idea/
+*.iml
+*.ipr
+*.iws
+src/main/webapp/WEB-INF/upload/
+
+# Eclipse #
+.settings/
+.metadata/
+.classpath
+.project
+Servers/
